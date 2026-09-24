@@ -1,0 +1,8 @@
+{
+  "precision": 4,
+  "sparse_limit": 8,
+  "error_bound": 40.0,
+  "error_invariant": true,
+  "items": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p"],
+  "more_items": ["q", "r", "s", "t"]
+}
